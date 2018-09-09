@@ -1,1 +1,1 @@
-module github.com/browny/testmod
+module github.com/browny/testmod/v2
